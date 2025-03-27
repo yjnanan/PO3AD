@@ -1,6 +1,6 @@
 # PO3AD
 ## [CVPR 2025] PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection
-## Environment
+## Environments
 We run our code on RTX3090 with Python 3.8 and PyTorch 1.9.0.
 
 **Create Conda Environment**
